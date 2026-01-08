@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Plantilla Básica de Streamlit
-Autor: Iñigo Asensio
-Fecha: 2025
-Descripción: Plantilla base para crear aplicaciones Streamlit
-"""
 
 import streamlit as st
 import pandas as pd
@@ -1397,3 +1390,4 @@ elif pagina == "📇​ Evolución Temporal":
 
 st.divider()
 st.caption("© 2025 - Cecilia Díaz Álvaro")
+
